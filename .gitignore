@@ -1,0 +1,30 @@
+# latex
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.synctex.gz
+*.bak
+*.toc
+*.nav
+*.snm
+*.out
+*.fdb_latexmk
+*.fls
+
+# virtual environment
+venv/
+
+# python
+__pycache__
+.ipynb_checkpoints/
+
+# from casadi jit compilation
+jit_tmp.c
+*.o
+*.so
+
+# VS code
+.vscode/
+
