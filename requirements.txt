@@ -1,5 +1,5 @@
 numpy
 scipy
 matplotlib
-casadi
-
+seaborn
+casadi==3.5.5
